@@ -14,7 +14,7 @@ A comprehensive walkthrough of the ticket lifecycle within osTicket, covering ti
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/tZwzR26.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/UwnW6Co.png" height="80%" width="80%" alt="Ticket Steps"/>
 
 </p>
 <p>
