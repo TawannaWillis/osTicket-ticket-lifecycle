@@ -44,6 +44,5 @@ It is important to close out the ticket when the ticket has been handles and res
 
 <h2>Lessons Learned</h2>
 
-Lessons Learned:  
 
 Working with the osTicket system provided valuable insights into ticket management and resolution in an IT support environment. I learned how users submit tickets by selecting appropriate Help Topics and detailing their issues, ensuring clear documentation for troubleshooting. As an admin, I practiced assigning tickets, prioritizing severity levels, and maintaining effective communication with both clients and team members. This lab reinforced the importance of tracking progress, documenting resolutions, and properly closing tickets to ensure seamless support operations. Strong communication and organization within the ticketing system are key to efficient issue resolution and customer satisfaction.
