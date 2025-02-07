@@ -24,7 +24,7 @@ In the osTicket system, users must access the ticket portal and log in if requir
 <br />
 
 <p>
-<img src="https://i.imgur.com/8J4gYRr.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/ceH8yWt.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/COfD3VN.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
