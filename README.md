@@ -20,8 +20,7 @@ A comprehensive walkthrough of the ticket lifecycle within osTicket, covering ti
 
 </p>
 <p>
-In order to create tickets, users have to enter the ticket portal and log in if necessary. Within the portal, the user can submit a ticket request and detail their IT related issues. Here, I have created three tickets detailing a variety of problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
-</p>
+In the osTicket system, users must access the ticket portal and log in if required to submit a support request. Within the portal, they can create a ticket by selecting a relevant Help Topic, providing a brief summary of the issue, and detailing their IT concern as they would in an email. For this project, I generated three example tickets that reflect common technical problems encountered in a real-world support environment. These tickets demonstrate how issues are categorized, documented, and processed within the system to ensure efficient troubleshooting and resolution.
 <br />
 
 <p>
