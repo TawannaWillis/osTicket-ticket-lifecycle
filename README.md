@@ -34,15 +34,16 @@ As the admin (jane), she will receive the ticket requests from their panel once 
 <br />
 
 <p>
-<img src="https://i.imgur.com/Y1OaeVl.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/pU3kh02.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/YhXK7WL.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/juQSI7L.png" height="80%" width="80%" alt="Ticket Steps"/>
+
 </p>
 <p>
-When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. One of these tickets are assigned to John from Jane and Jane herself was able to manage a ticket by herself. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
+It is important to close out the ticket when the ticket has been handles and resolved. This is another form of having great communication amongst your fellow Agents, teams and customers/clients. Here Jane marked the ticket as resolved, and noted that the problem should be resolved within the hour. 
 </p>
 <br />
 
 <h2>Lessons Learned</h2>
 
-The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
+Lessons Learned:  
+
+Working with the osTicket system provided valuable insights into ticket management and resolution in an IT support environment. I learned how users submit tickets by selecting appropriate Help Topics and detailing their issues, ensuring clear documentation for troubleshooting. As an admin, I practiced assigning tickets, prioritizing severity levels, and maintaining effective communication with both clients and team members. This lab reinforced the importance of tracking progress, documenting resolutions, and properly closing tickets to ensure seamless support operations. Strong communication and organization within the ticketing system are key to efficient issue resolution and customer satisfaction.
