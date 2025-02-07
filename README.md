@@ -26,9 +26,10 @@ In the osTicket system, users must access the ticket portal and log in if requir
 <p>
 <img src="https://i.imgur.com/ceH8yWt.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/icTVWV2.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/nOXC3fk.png" height="80%" width="80%" alt="Ticket Steps"/> 
 </p>
 <p>
-As the admin (jane), she will receive the ticket requests from their panel once they are sent. The admins can then reassign tickets to an agent or appropriate team in this example Jane is a part of the online banking team, therefore the ticket is assisgned to her. The priority level of the issue is determined and assigned accordingly in this example jane changed the severity to Emergency as this is a critical issue.    
+As the admin (jane), she will receive the ticket requests from their panel once they are sent. The admins can then reassign tickets to an agent or appropriate team in this example Jane is a part of the online banking team, therefore the ticket is assisgned to her. The priority level of the issue is determined and assigned accordingly in this example jane changed the severity to Emergency as this is a critical issue. It is important to note in the third slide, the communication about the ticket and its resolution. It is important to have outstanding communication amongst other agents, teams as well as the customer/client. Since Jane was able to manage the ticket by herself Jane did most of the commucation, documenting the problem as well as the resolution. 
 </p>
 <br />
 
