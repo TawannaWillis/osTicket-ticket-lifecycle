@@ -16,7 +16,7 @@ A comprehensive walkthrough of the ticket lifecycle within osTicket, covering ti
 <p>
 <img src="https://i.imgur.com/UwnW6Co.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/TITugWg.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/TITugWg.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/QlLKYPK.png" height="80%" width="80%" alt="Ticket Steps"/>
 
 </p>
 <p>
