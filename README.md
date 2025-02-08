@@ -13,6 +13,18 @@ A comprehensive walkthrough of the ticket lifecycle within osTicket, covering ti
 - Troubleshooting and Documentation
 - SLA And Escalation Handling
 
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop Connection
+- osTicket
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10 Pro (21H2)
+- Ubuntu Server 20.04
+- osTicket
+
 
 
 <h2>Lifecycle Stages</h2>
