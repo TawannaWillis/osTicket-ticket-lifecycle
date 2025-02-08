@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/2YjY9AH.png" alt="osTicket logo"/>
 </p>
 
 # osTicket-ticket-lifecycle
