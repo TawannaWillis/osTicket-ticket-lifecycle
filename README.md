@@ -23,7 +23,7 @@ A comprehensive walkthrough of the ticket lifecycle within osTicket, covering ti
 
 - Windows 10 Pro (21H2)
 - Ubuntu Server 20.04
-- osTicket
+  
 
 
 
