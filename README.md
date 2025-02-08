@@ -7,7 +7,11 @@
 A comprehensive walkthrough of the ticket lifecycle within osTicket, covering ticket creation, resolution, escalation, and closure in a help desk environment.
 
 
+<h2>Skills</h2>
 
+- IT Help Desk Management
+- Troubleshooting and Documentation
+- SLA And Escalation Handling
 
 
 
